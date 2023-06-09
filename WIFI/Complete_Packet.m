@@ -1,0 +1,1 @@
+Packet=[Preamble(1:320) Preamble(321)+Signal(1) Signal(2:80) Signal(81)+DAT(1) DAT(2:481)];
